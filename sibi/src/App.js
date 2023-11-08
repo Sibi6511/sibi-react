@@ -1,12 +1,12 @@
 import './App.css';
-import Navbar from './components/NavBar';
+import NavBar from './components/NavBar';
 import Main from './components/Main';
 import Footer from './components/Footer';
 function App() {
   return (
 
     <div>
-      <Navbar></Navbar>
+      <NavBar></NavBar>
       <Main></Main>
       <Footer></Footer>
     </div>
