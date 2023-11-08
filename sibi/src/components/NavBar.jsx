@@ -1,11 +1,11 @@
 import React from "react";
 
-const Navbar = () => {
+const NavBar = () => {
     return (
         <div>
             <center>
                 <hr></hr>
-                <h1 style={{ backgroundColor: "yellowgreen", fontSize: "30px" }}>Your Name</h1>
+                <h1 style={{ backgroundColor: "skyblue", fontSize: "30px" }}>Sibipranav K</h1>
                 <hr></hr>
             </center>
         </div>
